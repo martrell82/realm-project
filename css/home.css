@@ -1,0 +1,7 @@
+.card {
+    border: none;
+}
+
+.card img {
+    border-top-left-radius: none !important;
+}
